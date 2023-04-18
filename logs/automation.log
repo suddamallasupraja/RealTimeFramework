@@ -1,0 +1,533 @@
+10:49:52.392 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+10:49:52.456 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+10:49:53.213 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+10:49:53.214 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+10:49:53.523 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:38:51.820 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:38:52.166 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:38:52.860 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:38:52.864 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:38:52.998 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:44:34.937 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:44:35.028 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:44:36.057 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:44:36.060 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:44:36.520 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:44:54.612 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:44:54.670 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:44:55.170 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:44:55.172 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:44:55.639 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:46:12.283 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:46:12.361 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:46:12.393 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:46:12.436 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:46:12.983 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:46:12.986 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:46:13.052 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:46:13.055 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:46:13.544 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:46:13.597 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:47:27.944 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:47:28.051 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:47:28.484 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:47:28.556 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:47:28.856 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:47:28.859 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:47:29.367 [TestNG-tests-2] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:47:29.452 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:47:29.454 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:47:29.896 [TestNG-tests-1] INFO  testCases.TC_01AccountRegistration - validating expecting message
+06:29:42.894 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+06:29:42.976 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+06:29:43.549 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+06:29:43.551 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+06:29:43.996 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+11:06:23.898 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+11:06:24.002 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+11:06:24.871 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+11:06:24.872 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+11:06:25.296 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+11:18:38.181 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+11:18:38.260 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+11:18:38.835 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+11:18:38.838 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+11:18:39.289 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+11:23:27.663 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+11:23:27.738 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+11:23:28.925 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+11:23:28.927 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+11:23:29.365 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+12:16:52.074 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+12:27:42.486 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+12:27:43.092 [main] INFO  testCases.TC_02LoginTest - clicked on login
+12:27:43.192 [main] INFO  testCases.TC_02LoginTest - entered mail
+12:27:43.257 [main] INFO  testCases.TC_02LoginTest - entered password
+12:27:43.311 [main] INFO  testCases.TC_02LoginTest - clicked on login
+12:27:43.451 [main] INFO  testCases.TC_02LoginTest - completed successfully
+14:48:45.038 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:48:45.759 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:48:45.948 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:48:46.744 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:48:46.924 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:48:47.674 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:48:47.865 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:48:48.598 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:48:48.748 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:48:49.317 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:51:23.766 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:51:24.251 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:51:24.476 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:51:24.967 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:51:25.132 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:51:25.667 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:51:25.875 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:51:26.605 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:51:26.776 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:51:27.213 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:56:03.927 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:56:04.483 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:56:04.718 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:56:05.412 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:56:05.574 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:56:06.050 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:56:06.236 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:56:06.770 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+14:56:06.951 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+14:56:07.694 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:07:09.441 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:07:10.042 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:07:10.284 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:07:10.925 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:07:11.098 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:07:11.548 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:07:11.706 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:07:12.207 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:07:12.358 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:07:12.879 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:10:06.857 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:10:07.640 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:10:07.757 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:10:07.821 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:10:07.877 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:10:23.263 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:10:33.495 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:10:34.566 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:10:34.659 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:10:34.745 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:10:34.808 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:10:50.070 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:11:00.278 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:11:01.342 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:11:01.441 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:11:01.514 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:11:01.572 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:15:42.547 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:15:43.027 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:15:43.132 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:15:43.202 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:15:43.274 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:15:53.553 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:15:54.302 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:15:54.404 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:15:54.491 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:15:54.555 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:16:04.796 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:16:05.846 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:16:05.959 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:16:06.040 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:16:06.101 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:16:16.323 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:16:19.007 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:16:19.088 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:16:19.160 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:16:19.223 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:16:19.251 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+15:16:19.259 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:16:20.155 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:16:20.232 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:16:20.292 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:16:20.344 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:16:20.373 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+15:21:54.535 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:21:54.986 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:21:55.082 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:21:55.147 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:21:55.178 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:22:05.462 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:22:06.828 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:22:06.939 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:22:07.017 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:22:07.049 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:22:17.242 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:22:19.796 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:22:19.900 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:22:19.984 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:22:20.013 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:22:30.259 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:22:31.741 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:22:31.841 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:22:31.921 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:22:31.951 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:22:42.164 [main] INFO  testCases.TC_03LoginDataDrivenTest - TC_03 Starting
+15:22:43.694 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:22:43.805 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:22:43.875 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:22:43.902 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:28:02.675 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:28:03.157 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:28:03.279 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:28:03.351 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:28:03.382 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:28:13.676 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:28:14.756 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:28:14.858 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:28:14.928 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:28:14.962 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:28:25.205 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:28:25.904 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:28:26.003 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:28:26.069 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:28:26.099 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:28:36.344 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:28:38.447 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:28:38.543 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:28:38.617 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:28:38.642 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:28:48.875 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:28:49.781 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:28:49.865 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:28:49.939 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:28:49.964 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:33:08.422 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:33:09.182 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:33:09.287 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:33:09.366 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:33:09.394 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:33:09.427 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+15:33:19.832 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:33:20.514 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:33:20.620 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:33:20.691 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:33:20.719 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:33:20.758 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+15:33:30.953 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:33:32.216 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:33:32.305 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:33:32.381 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:33:32.405 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:33:32.446 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+15:33:42.655 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:33:43.222 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:33:43.306 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:33:43.387 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:33:43.411 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:33:43.434 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+15:33:53.657 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+15:33:55.041 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+15:33:55.167 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+15:33:55.248 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+15:33:55.283 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+15:33:55.315 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+20:36:11.795 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+20:36:12.575 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+20:36:12.699 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+20:36:12.771 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+20:36:12.801 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+20:36:12.853 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+20:36:12.857 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+20:36:12.877 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+20:36:13.690 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+20:36:13.755 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+20:36:13.820 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+20:36:13.850 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+20:36:13.882 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+20:36:13.882 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+20:36:13.886 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+20:36:14.799 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+20:36:14.868 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+20:36:14.931 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+20:36:14.955 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+20:36:14.985 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+20:36:14.986 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+20:36:14.989 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+20:36:16.021 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+20:36:16.089 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+20:36:16.166 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+20:36:16.195 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+20:36:16.226 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+20:36:16.227 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+20:36:16.231 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+20:36:17.259 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+20:36:17.322 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+20:36:17.375 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+20:36:17.406 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+20:36:17.424 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+20:36:17.424 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+05:44:23.587 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+05:44:24.160 [main] INFO  testCases.TC_02LoginTest - clicked on login
+05:44:24.279 [main] INFO  testCases.TC_02LoginTest - entered mail
+05:44:24.349 [main] INFO  testCases.TC_02LoginTest - entered password
+05:44:24.375 [main] INFO  testCases.TC_02LoginTest - clicked on login
+05:44:24.424 [main] INFO  testCases.TC_02LoginTest - completed successfully
+05:44:27.271 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:44:27.332 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:44:28.167 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:44:28.170 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:44:28.660 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:57:45.146 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+05:57:45.735 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+05:57:45.845 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+05:57:45.906 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+05:57:45.932 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+05:57:46.087 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+05:57:56.361 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+05:57:57.171 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+05:57:57.262 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+05:57:57.340 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+05:57:57.363 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+05:57:57.396 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+05:58:07.598 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+05:58:08.062 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+05:58:08.169 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+05:58:08.251 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+05:58:08.276 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+05:58:08.314 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+05:58:18.555 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+05:58:19.292 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+05:58:19.378 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+05:58:19.454 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+05:58:19.474 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+05:58:19.508 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+05:58:29.739 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+05:58:30.440 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+05:58:30.525 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+05:58:30.598 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+05:58:30.623 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+05:58:30.654 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:03:01.959 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:03:02.586 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:03:02.697 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:03:02.756 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:03:02.778 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:03:02.819 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:03:13.072 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:03:13.796 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:03:13.877 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:03:13.955 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:03:13.972 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:03:14.015 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:03:24.189 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:03:24.925 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:03:25.011 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:03:25.077 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:03:25.107 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:03:25.138 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:03:35.355 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:03:35.906 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:03:36.003 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:03:36.087 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:03:36.117 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:03:36.136 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:03:46.304 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:03:46.972 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:03:47.061 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:03:47.121 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:03:47.144 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:03:47.168 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:09:35.092 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:09:35.659 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:09:35.763 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:09:35.832 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:09:35.860 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:09:35.897 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:09:35.899 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+06:09:35.911 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:09:36.900 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:09:36.980 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:09:37.038 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:09:37.063 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:09:37.091 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:09:37.091 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+06:09:37.091 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:09:37.877 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:09:37.979 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:09:38.055 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:09:38.083 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:09:38.107 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:09:38.107 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+06:09:38.107 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:09:38.899 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:09:38.976 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:09:39.038 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:09:39.067 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:09:39.089 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:09:39.089 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+06:09:39.089 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:09:39.833 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:09:39.938 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:09:40.012 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:09:40.024 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:09:40.057 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:09:40.057 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+06:14:39.132 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+06:14:39.617 [main] INFO  testCases.TC_02LoginTest - clicked on login
+06:14:39.717 [main] INFO  testCases.TC_02LoginTest - entered mail
+06:14:39.780 [main] INFO  testCases.TC_02LoginTest - entered password
+06:14:39.808 [main] INFO  testCases.TC_02LoginTest - clicked on login
+06:14:44.879 [main] INFO  testCases.TC_02LoginTest - completed successfully
+06:17:07.309 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+06:17:07.948 [main] INFO  testCases.TC_02LoginTest - clicked on login
+06:17:08.057 [main] INFO  testCases.TC_02LoginTest - entered mail
+06:17:08.122 [main] INFO  testCases.TC_02LoginTest - entered password
+06:17:08.151 [main] INFO  testCases.TC_02LoginTest - clicked on login
+06:17:13.220 [main] INFO  testCases.TC_02LoginTest - completed successfully
+06:31:20.058 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:31:20.819 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:31:20.927 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:31:20.986 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:31:21.016 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:31:21.051 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:31:31.318 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:31:32.398 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:31:32.507 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:31:32.587 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:31:32.614 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:31:32.640 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:31:42.821 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:31:43.911 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:31:43.995 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:31:44.058 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:31:44.084 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:31:44.126 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:31:54.305 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:31:55.447 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:31:55.552 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:31:55.637 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:31:55.665 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:31:55.697 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+06:32:05.888 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+06:32:06.807 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+06:32:06.902 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+06:32:06.980 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+06:32:07.006 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+06:32:07.037 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+09:47:19.199 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+09:47:19.785 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+09:47:19.856 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+09:47:19.897 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+09:47:19.916 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+09:47:19.935 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+09:47:19.936 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+09:47:19.944 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+09:47:20.730 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+09:47:20.794 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+09:47:20.835 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+09:47:20.850 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+09:47:20.865 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+09:47:20.865 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+09:47:20.867 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+09:47:21.690 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+09:47:21.742 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+09:47:21.772 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+09:47:21.788 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+09:47:21.805 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+09:47:21.805 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+09:47:21.805 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+09:47:22.330 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+09:47:22.386 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+09:47:22.425 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+09:47:22.438 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+09:47:22.455 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+09:47:22.455 [main] INFO  testCases.TC_03LoginDataDrivenTest - completed successfully
+09:47:22.455 [main] INFO  testCases.TC_03LoginDataDrivenTest - ********TC_03 Starting
+09:47:23.287 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on login
+09:47:23.337 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered mail
+09:47:23.375 [main] INFO  testCases.TC_03LoginDataDrivenTest - entered password
+09:47:23.388 [main] INFO  testCases.TC_03LoginDataDrivenTest - clicked on after successful entry login
+09:47:23.388 [main] INFO  testCases.TC_03LoginDataDrivenTest - validating
+09:56:40.172 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+09:56:40.569 [main] INFO  testCases.TC_02LoginTest - clicked on login
+09:56:40.637 [main] INFO  testCases.TC_02LoginTest - entered mail
+09:56:40.682 [main] INFO  testCases.TC_02LoginTest - entered password
+09:56:40.702 [main] INFO  testCases.TC_02LoginTest - clicked on login
+12:32:04.966 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+12:32:05.523 [main] INFO  testCases.TC_02LoginTest - clicked on login
+12:32:05.614 [main] INFO  testCases.TC_02LoginTest - entered mail
+12:32:05.681 [main] INFO  testCases.TC_02LoginTest - entered password
+12:32:05.740 [main] INFO  testCases.TC_02LoginTest - clicked on login
+12:32:39.713 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+12:32:40.491 [main] INFO  testCases.TC_02LoginTest - clicked on login
+12:32:40.579 [main] INFO  testCases.TC_02LoginTest - entered mail
+12:32:40.652 [main] INFO  testCases.TC_02LoginTest - entered password
+12:32:40.680 [main] INFO  testCases.TC_02LoginTest - clicked on login
+14:49:14.065 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+14:49:14.661 [main] INFO  testCases.TC_02LoginTest - clicked on login
+14:49:14.753 [main] INFO  testCases.TC_02LoginTest - entered mail
+14:49:14.815 [main] INFO  testCases.TC_02LoginTest - entered password
+14:49:14.840 [main] INFO  testCases.TC_02LoginTest - clicked on login
+15:15:53.365 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+15:15:53.985 [main] INFO  testCases.TC_02LoginTest - clicked on login
+15:15:54.075 [main] INFO  testCases.TC_02LoginTest - entered mail
+15:15:54.138 [main] INFO  testCases.TC_02LoginTest - entered password
+15:15:54.163 [main] INFO  testCases.TC_02LoginTest - clicked on login
+15:24:43.758 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+15:24:44.246 [main] INFO  testCases.TC_02LoginTest - clicked on login
+15:24:44.332 [main] INFO  testCases.TC_02LoginTest - entered mail
+15:24:44.394 [main] INFO  testCases.TC_02LoginTest - entered password
+15:24:44.419 [main] INFO  testCases.TC_02LoginTest - clicked on login
+15:30:09.825 [main] INFO  testCases.TC_02LoginTest - TC_02 Starting
+15:30:10.470 [main] INFO  testCases.TC_02LoginTest - clicked on login
+15:30:10.560 [main] INFO  testCases.TC_02LoginTest - entered mail
+15:30:10.622 [main] INFO  testCases.TC_02LoginTest - entered password
+15:30:10.648 [main] INFO  testCases.TC_02LoginTest - clicked on login
+15:33:09.508 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+15:33:09.591 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+15:33:10.583 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+15:33:10.585 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+15:33:10.955 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+15:33:44.242 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+15:33:44.310 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+15:33:45.109 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+15:33:45.111 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+15:33:45.536 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+15:54:56.666 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+15:54:56.745 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+15:54:57.392 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+15:54:57.394 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+15:54:57.777 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+16:21:37.058 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+16:21:37.143 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+16:21:37.899 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+16:21:37.901 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+16:21:38.303 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+16:23:43.640 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+16:23:43.720 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+16:23:44.491 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+16:23:44.493 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+16:23:44.788 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+16:28:29.440 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+16:28:29.527 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+16:28:30.355 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+16:28:30.357 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+16:28:30.740 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+16:41:18.273 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+16:41:18.347 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+16:41:18.879 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+16:41:18.882 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+16:41:19.269 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+16:41:56.164 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+16:41:56.241 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+16:41:56.863 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+16:41:56.865 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+16:41:57.244 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+16:56:12.130 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+16:56:12.207 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+16:56:12.872 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+16:56:12.874 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+16:56:13.276 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
+05:32:38.056 [main] INFO  testCases.TC_01AccountRegistration - ***  Starting TC_O1ARTest ****
+05:32:38.148 [main] INFO  testCases.TC_01AccountRegistration - clicked on my account link
+05:32:39.314 [main] INFO  testCases.TC_01AccountRegistration - clicked on register
+05:32:39.319 [main] INFO  testCases.TC_01AccountRegistration - Providing customer data
+05:32:39.816 [main] INFO  testCases.TC_01AccountRegistration - validating expecting message
