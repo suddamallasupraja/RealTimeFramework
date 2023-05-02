@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-17T16:41:13 IST" name="Suite" finished-at="2023-04-17T16:41:30 IST" duration-ms="16835">
+  <suite started-at="2023-04-20T19:24:19 IST" name="Suite" finished-at="2023-04-20T19:24:37 IST" duration-ms="17707">
     <groups>
       <group name="sanity">
-        <method signature="TC_01AccountRegistration.register()[pri:0, instance:testCases.TC_01AccountRegistration@58cbafc2]" name="register" class="testCases.TC_01AccountRegistration"/>
+        <method signature="TC_01AccountRegistration.register()[pri:0, instance:testCases.TC_01AccountRegistration@c730b35]" name="register" class="testCases.TC_01AccountRegistration"/>
       </group> <!-- sanity -->
     </groups>
-    <test started-at="2023-04-17T16:41:13 IST" name="Test" finished-at="2023-04-17T16:41:30 IST" duration-ms="16835">
+    <test started-at="2023-04-20T19:24:19 IST" name="Test" finished-at="2023-04-20T19:24:37 IST" duration-ms="17707">
       <class name="testCases.TC_01AccountRegistration">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_01AccountRegistration@58cbafc2]" started-at="2023-04-17T16:41:13 IST" name="setup" finished-at="2023-04-17T16:41:18 IST" duration-ms="4636" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_01AccountRegistration@c730b35]" started-at="2023-04-20T19:24:20 IST" name="setup" finished-at="2023-04-20T19:24:25 IST" duration-ms="5487" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -21,7 +21,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="register()[pri:0, instance:testCases.TC_01AccountRegistration@58cbafc2]" started-at="2023-04-17T16:41:18 IST" name="register" finished-at="2023-04-17T16:41:29 IST" duration-ms="11076" status="FAIL">
+        <test-method signature="register()[pri:0, instance:testCases.TC_01AccountRegistration@c730b35]" started-at="2023-04-20T19:24:25 IST" name="register" finished-at="2023-04-20T19:24:36 IST" duration-ms="11478" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Your Account Has Been Created!] but found [unable to fetch text]]]>
@@ -69,7 +69,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_01AccountRegistration@58cbafc2]" started-at="2023-04-17T16:41:29 IST" name="teardown" finished-at="2023-04-17T16:41:30 IST" duration-ms="646" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_01AccountRegistration@c730b35]" started-at="2023-04-20T19:24:37 IST" name="teardown" finished-at="2023-04-20T19:24:37 IST" duration-ms="378" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

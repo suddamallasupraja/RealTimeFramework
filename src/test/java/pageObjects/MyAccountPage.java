@@ -12,7 +12,7 @@ public class MyAccountPage extends Basepage
 		super(driver);
    }
 	@FindBy(xpath="//h2[1]")
-WebElement ap;
+    WebElement ap;
 	@FindBy(xpath="//li//a[text()='Logout']")
 	WebElement lo;
 	public String acpage()

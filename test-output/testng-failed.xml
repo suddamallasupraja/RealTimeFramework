@@ -10,8 +10,8 @@
       <class name="testCases.TC_01AccountRegistration">
         <methods>
           <include name="teardown"/>
-          <include name="setup"/>
           <include name="register"/>
+          <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC_01AccountRegistration -->
     </classes>
