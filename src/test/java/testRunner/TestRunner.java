@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features= {".//Features//Blazedemo.feature"},
-		//features= {".//Features//Pagination.feature"},
+		//features= {".//Features//Pagination."},
 		//features= {".//Features//jdbc.feature"},
 		//features= {".//Features//Desktops.feature"},
 	//features= {".//Features//LoginDDT_excel.feature"},
